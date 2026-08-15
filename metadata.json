@@ -1,0 +1,6 @@
+{
+  "name": "G-Chat",
+  "description": "Private E2EE chatting platform with instant Ghanishtha Owner access, custom friend access codes, passkey signup for new users, encrypted file sharing, and account & conversation controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
